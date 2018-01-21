@@ -9,14 +9,14 @@ Date: 01/21/18
 
 Overview:
 
-This Requirements Document will provide the requirements for a Restaurant 
-Management software. Both functional and non-functional requirement will be 
+This Requirements Document will provide the requirements for a Restaurant
+Management software. Both functional and non-functional requirement will be
 documented, as well as stakeholders.
 
 -------------------------------------------------------------------------------
 
-Stakeholders (Those affected by the application. Business users who will be 
-using this system): 
+Stakeholders (Those affected by the application. Business users who will be
+using this system):
 
 Restaurant owners, employees of the restaurant that uses
 this software.
@@ -25,40 +25,40 @@ this software.
 
 Functional Requirements (feature specific):
 
-1. Employees must be able login to the system and the system shall recognize 
-   their location and their personell information in relation to the business.
-   
-2. The system must allow for the entry and updating of menu items that are 
+1. Employees must be able login to the system and the system shall recognize
+   their location and their personnel information in relation to the business.
+
+2. The system must allow for the entry and updating of menu items that are
    currently available at the restaurant.
-   
+
 3. The system must allow for customer reservations, including the number of
    people in the party and the reservation name.
-   
+
 4. The system must allow for the placement of customer orders.
 
 5. The system must track what customers have ordered and the total amount that
    the customer owes to the restaurant.
-   
+
 6. The system must allow for multiple payment options, such as cash, check, and
    credit card (Visa, MasterCard, Discover, or American Express).
-   
-7. The system must accept the payment method provided by the customer and 
+
+7. The system must accept the payment method provided by the customer and
    process it appropriately.
 
 8. The system must track the amount of tips received as a part of the employee's
    wages.
-   
+
 9. The system shall allow for a mobile option for employees to log in and
    reservations to be made.
-   
+
 -------------------------------------------------------------------------------
 
-Non-Functional Requirements (not feature specific. Constraints, external 
-interface reqs, performance requirements, quality attributes. Examples: cost, 
+Non-Functional Requirements (not feature specific. Constraints, external
+interface reqs, performance requirements, quality attributes. Examples: cost,
 security, schedule, technical preferences, backup and recovery, responsiveness):
 
-1.	The software shall cost ???	- Must
+1.	The software shall cost ???
 2.	The software shall communicate between devices and affected users
-	instantly. - Must
-3.	The software shall be built by April 21st. - Must
-4.	The software shall be secure from hackers. - Must
+	  instantly.
+3.	The software shall be built by April 21st.
+4.	The software shall be secure from hackers.
