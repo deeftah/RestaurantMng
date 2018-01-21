@@ -44,6 +44,10 @@ Functional Requirements (feature specific):
 
 8. The system must track the amount of tips received as a part of the employee's
    wages.
+   
+9. The system shall allow for a mobile option for employees to log in and
+   reservations to be made.
+   
 -------------------------------------------------------------------------------
 
 Non-Functional Requirements (not feature specific. Constraints, external 
