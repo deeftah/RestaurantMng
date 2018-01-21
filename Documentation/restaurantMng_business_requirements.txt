@@ -10,29 +10,13 @@ Date: 01/21/18
 Overview
 This Requirements Document will provide the requirements for a Restaurant 
 Management software. Both functional and non-functional requirement will be 
-documented.
+documented, as well as stakeholders.
 
 -------------------------------------------------------------------------------
 
 Stakeholders (Those affected by the application. Business users who will be 
 using this system): Restaurant owners, employees of the restaurant that uses
 this software.
-
--------------------------------------------------------------------------------
-
-Business Processes Affected
-The following business processes are in scope:
-
-Applications
-The following applications are in scope:
-
-The following are out of scope:
-
-Assumptions/Constraints
-
-Risks
-
-Related Documents
 
 -------------------------------------------------------------------------------
 
