@@ -1,0 +1,54 @@
+Business Requirements Document
+ICS 499 Term Project Requirements
+Restaurant Management Software
+
+Author: Tyler Thrash, Ann Putnam
+Date: 01/21/18
+
+-------------------------------------------------------------------------------
+
+Overview
+This Requirements Document will provide the requirements for a Restaurant 
+Management software. Both functional and non-functional requirement will be 
+documented.
+
+-------------------------------------------------------------------------------
+
+Stakeholders (Those affected by the application. Business users who will be 
+using this system): Restaurant owners, employees of the restaurant that uses
+this software.
+
+-------------------------------------------------------------------------------
+
+Business Processes Affected
+The following business processes are in scope:
+
+Applications
+The following applications are in scope:
+
+The following are out of scope:
+
+Assumptions/Constraints
+
+Risks
+
+Related Documents
+
+-------------------------------------------------------------------------------
+
+Functional Requirements (feature specific):
+
+1.	
+
+
+-------------------------------------------------------------------------------
+
+Non-Functional Requirements (not feature specific. Constraints, external 
+interface reqs, performance requirements, quality attributes. Examples: cost, 
+security, schedule, technical preferences, backup and recovery, responsiveness):
+
+1.	The software shall cost ???	- Must
+2.	The software shall communicate between devices and affected users
+	instantly. - Must
+3.	The software shall be built by April 21st. - Must
+4.	The software shall be secure from hackers. - Must
