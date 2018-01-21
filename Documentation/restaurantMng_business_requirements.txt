@@ -2,7 +2,7 @@ Business Requirements Document
 ICS 499 Term Project Requirements
 Restaurant Management Software
 
-Author: Tyler Thrash, Ann Putnam
+Author: Tyler Thrash, Ann Putnam (Monteith)
 Date: 01/21/18
 
 -------------------------------------------------------------------------------
@@ -25,9 +25,28 @@ this software.
 
 Functional Requirements (feature specific):
 
-1.	
+1. Employees must be able login to the system and the system shall recognize 
+   their location and their personell information in relation to the business.
+   
+2. The system must allow for the entry and updating of menu items that are 
+   currently available at the restaurant.
+   
+3. The system must allow for customer reservations, including the number of
+   people in the party and the reservation name.
+   
+4. The system must allow for the placement of customer orders.
 
+5. The system must track what customers have ordered and the total amount that
+   the customer owes to the restaurant.
+   
+6. The system must allow for multiple payment options, such as cash, check, and
+   credit card (Visa, MasterCard, Discover, or American Express).
+   
+7. The system must accept the payment method provided by the customer and 
+   process it appropriately.
 
+8. The system must track the amount of tips received as a part of the employee's
+   wages.
 -------------------------------------------------------------------------------
 
 Non-Functional Requirements (not feature specific. Constraints, external 
