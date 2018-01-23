@@ -18,38 +18,79 @@ documented, as well as stakeholders.
 Stakeholders (Those affected by the application. Business users who will be
 using this system):
 
-Restaurant owners, employees of the restaurant that uses
-this software.
+Restaurant owners, employees of the restaurant that uses this software.
 
 -------------------------------------------------------------------------------
 
 Functional Requirements (feature specific):
 
-1. Employees must be able login to the system and the system shall recognize
-   their location and their personnel information in relation to the business.
+1.  The software shall allow users to sign in.
 
-2. The system must allow for the entry and updating of menu items that are
-   currently available at the restaurant.
+2.  The software shall allow for a mobile option for employees to log in and
+    reservations to be made.
 
-3. The system must allow for customer reservations, including the number of
-   people in the party and the reservation name.
+3.  The software shall allow users to sign up.
 
-4. The system must allow for the placement of customer orders.
+4.  The software shall allow for the entry and updating of menu items that are
+    currently available at the restaurant.
 
-5. The system must track what customers have ordered and the total amount that
-   the customer owes to the restaurant.
+5.  The software shall allow for automated customer reservations, including the
+    number of people in the party and the reservation name.
 
-6. The system must allow for multiple payment options, such as cash, check, and
-   credit card (Visa, MasterCard, Discover, or American Express).
+6.  The software shall have a home page for employees (restaurant owners are
+    considered employees with owner status).
 
-7. The system must accept the payment method provided by the customer and
-   process it appropriately.
+7.  The employee user home page shall have a list of restaurants the user is
+    associated with and if they are an owner of the restaurants.
 
-8. The system must track the amount of tips received as a part of the employee's
-   wages.
+8.  The employee user home page shall have a summary of the restaurant/business
+    analytics and a button to view the full restaurant analytics page if the
+    employee is an owner of the restaurant or if they have access provided by
+    the owner.
 
-9. The system shall allow for a mobile option for employees to log in and
-   reservations to be made.
+9.  The employee user home page shall have a schedule and/or to do list for the
+    user and the restaurants they are associated with.
+
+10. The employee user home page shall have a message area that allow other users
+    they work with to message them.
+
+11. The restaurant shall have a page for party's.
+
+12. The software shall allow for the placement of customer orders.
+
+13. The software shall have a page to add food to the orders.
+
+14. The software shall track what a customer has ordered and the total amount
+    that the customer owes to the restaurant.
+
+15. The software shall accept the payment method provided by the customer and
+    process it appropriately.
+
+16. The software shall allow for multiple payment options, such as cash, check,
+    and credit card (Visa, MasterCard, Discover, or American Express).
+
+17. The software shall be able to print receipts of an order or group of orders.
+
+17. The software shall track the amount of tips received as a part of the
+    employee's wages.
+
+18. The software shall recognize their location and their personnel information
+    in relation to the business.
+
+19. The software shall have a default separation of roles (what do owners,
+    managers and other employees have access to?).
+
+20. The software shall allow for the owners to modify the rules associated with
+    the separation of roles.
+
+21. The software shall have a page that displays outstanding orders for the
+    cooks.
+
+26. The software shall have a home page for the restaurant, as a
+    interface for employees do their work, like add a party and make a
+    reservation.
+
+
 
 -------------------------------------------------------------------------------
 
@@ -59,6 +100,7 @@ security, schedule, technical preferences, backup and recovery, responsiveness):
 
 1.	The software shall cost ???
 2.	The software shall communicate between devices and affected users
-	  instantly.
+	  instantly (event driven).
 3.	The software shall be built by April 21st.
 4.	The software shall be secure from hackers.
+5.  The software shall be free for all non restaurant owners.
