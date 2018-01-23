@@ -71,22 +71,22 @@ Functional Requirements (feature specific):
 
 17. The software shall be able to print receipts of an order or group of orders.
 
-17. The software shall track the amount of tips received as a part of the
+18. The software shall track the amount of tips received as a part of the
     employee's wages.
 
-18. The software shall recognize their location and their personnel information
+19. The software shall recognize their location and their personnel information
     in relation to the business.
 
-19. The software shall have a default separation of roles (what do owners,
+20. The software shall have a default separation of roles (what do owners,
     managers and other employees have access to?).
 
-20. The software shall allow for the owners to modify the rules associated with
+21. The software shall allow for the owners to modify the rules associated with
     the separation of roles.
 
-21. The software shall have a page that displays outstanding orders for the
+22. The software shall have a page that displays outstanding orders for the
     cooks.
 
-26. The software shall have a home page for the restaurant, as a
+23. The software shall have a home page for the restaurant, as a
     interface for employees do their work, like add a party and make a
     reservation.
 
