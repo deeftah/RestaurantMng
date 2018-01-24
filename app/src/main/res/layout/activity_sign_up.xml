@@ -6,95 +6,18 @@
     android:layout_height="match_parent"
     tools:context="com.tbd.restaurantmng.SignUpActivity">
 
+
     <RelativeLayout
-        android:id="@+id/relativeLayout"
-        android:layout_width="363dp"
-        android:layout_height="0dp"
-        android:layout_marginBottom="8dp"
-        android:layout_marginTop="8dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.523"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0">
-
-
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/signupHeader"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignBaseline="@+id/f_name"
-            android:layout_alignBottom="@+id/f_name"
-            android:layout_alignStart="@+id/textView4"
-            android:text="First Name"
-            android:textSize="25dp"
-            tools:layout_editor_absoluteX="39dp"
-            tools:layout_editor_absoluteY="173dp" />
-
-
-
-
-        <TextView
-            android:id="@+id/textView4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignBaseline="@+id/l_name"
-            android:layout_alignBottom="@+id/l_name"
-            android:layout_alignParentStart="true"
-            android:layout_marginStart="17dp"
-            android:text="Last Name"
-            android:textSize="20dp"
-            tools:layout_editor_absoluteX="39dp"
-            tools:layout_editor_absoluteY="110dp" />
-
-        <EditText
-            android:id="@+id/f_name"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:layout_below="@+id/headerText"
-            android:layout_marginTop="34dp"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="First Name"
-            tools:layout_editor_absoluteX="153dp"
-            tools:layout_editor_absoluteY="97dp" />
-
-        <EditText
-            android:id="@+id/l_name"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/editText3"
-            android:layout_alignParentEnd="true"
-            android:layout_marginBottom="22dp"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Last Name"
-            tools:layout_editor_absoluteX="153dp"
-            tools:layout_editor_absoluteY="154dp" />
-
-        <EditText
-            android:id="@+id/editText3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignStart="@+id/l_name"
-            android:layout_centerVertical="true"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="User Name" />
-
-        <EditText
-            android:id="@+id/editText4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:layout_below="@+id/editText3"
-            android:layout_marginTop="24dp"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Password" />
-
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:text="Create Account" />
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
