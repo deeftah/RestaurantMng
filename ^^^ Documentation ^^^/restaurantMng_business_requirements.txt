@@ -51,46 +51,41 @@ Functional Requirements (feature specific):
 9.  The employee user home page shall have a schedule and/or to do list for the
     user and the restaurants they are associated with.
 
-10. The employee user home page shall have a message area that allow other users
-    they work with to message them.
+10. The restaurant shall have a page for party's.
 
-11. The restaurant shall have a page for party's.
+11. The software shall allow for the placement of customer orders.
 
-12. The software shall allow for the placement of customer orders.
+12. The software shall have a page to add food to the orders.
 
-13. The software shall have a page to add food to the orders.
-
-14. The software shall track what a customer has ordered and the total amount
+13. The software shall track what a customer has ordered and the total amount
     that the customer owes to the restaurant.
 
-15. The software shall accept the payment method provided by the customer and
+14. The software shall accept the payment method provided by the customer and
     process it appropriately.
 
-16. The software shall allow for multiple payment options, such as cash, check,
+15. The software shall allow for multiple payment options, such as cash, check,
     and credit card (Visa, MasterCard, Discover, or American Express).
 
-17. The software shall be able to print receipts of an order or group of orders.
+16. The software shall be able to print receipts of an order or group of orders.
 
-18. The software shall track the amount of tips received as a part of the
+17. The software shall track the amount of tips received as a part of the
     employee's wages.
 
-19. The software shall recognize their location and their personnel information
+18. The software shall recognize their location and their personnel information
     in relation to the business.
 
-20. The software shall have a default separation of roles (what do owners,
+19. The software shall have a default separation of roles (what do owners,
     managers and other employees have access to?).
 
-21. The software shall allow for the owners to modify the rules associated with
+20. The software shall allow for the owners to modify the rules associated with
     the separation of roles.
 
-22. The software shall have a page that displays outstanding orders for the
+21. The software shall have a page that displays outstanding orders for the
     cooks.
 
-23. The software shall have a home page for the restaurant, as a
-    interface for employees do their work, like add a party and make a
+22. The software shall have a home page for the restaurant, as an
+    interface for employees do their work, for example add a party and make a
     reservation.
-
-
 
 -------------------------------------------------------------------------------
 

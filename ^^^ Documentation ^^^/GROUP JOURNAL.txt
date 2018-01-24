@@ -1,0 +1,21 @@
+GROUP JOURNAL
+
+1/9/2018:
+Members:  Ann Monteith & Tyler Thrash
+Discussed:  Initial discussion and proposal for the group project
+Decision:  Decided on doing a restaurant application
+
+1/15/2018:
+Members:  Ann Monteith & Tyler Thrash
+Discussed:  The scope of the project
+Decision:  Changed the scope from a web application to an Android app
+
+1/16/2018:
+Members:  Ann Monteith & Tyler Thrash
+Discussed:  Documents for Iteration 1
+Decision:  Determined tables, how to get the requirements information (Tyler has a contact who is a restaurant owner), potential usage of React in order to program Android, iPhone, and web application.
+
+1/21/2018:
+Members:  Ann Monteith & Tyler Thrash
+Discussion through Slack:  Creating documents and collaboration
+Decisions:  Needed to continue without using an actual restaurant owner’s input, since we weren’t able to connect with the restaurant owner.  Created most of the required documents through GitHub and Draw.io.
