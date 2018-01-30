@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">RestaurantMng</string>
-    <string name="log_in">Log In</string>
-    <string name="create_account">Create Account</string>
-    <string name="sign_in">Sign in</string>
-</resources>
