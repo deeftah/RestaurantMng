@@ -18,4 +18,9 @@ Decision:  Determined tables, how to get the requirements information (Tyler has
 1/21/2018:
 Members:  Ann Monteith & Tyler Thrash
 Discussion through Slack:  Creating documents and collaboration
-Decisions:  Needed to continue without using an actual restaurant owner’s input, since we weren’t able to connect with the restaurant owner.  Created most of the required documents through GitHub and Draw.io.
+Decisions:  Needed to continue without using an actual restaurant ownerâ€™s input, since we werenâ€™t able to connect with the restaurant owner.  Created most of the required documents through GitHub and Draw.io.
+
+1/28/17:
+Members:  Ann Monteith & Tyler Thrash
+Discussed: Iteration 2 goals
+Decisions:  Sign on Page, Initial login page, authentication will be first things set up.
