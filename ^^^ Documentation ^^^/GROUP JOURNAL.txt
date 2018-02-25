@@ -24,3 +24,18 @@ Decisions:  Needed to continue without using an actual restaurant owner’s inpu
 Members:  Ann Monteith & Tyler Thrash
 Discussed: Iteration 2 goals
 Decisions:  Sign on Page, Initial login page, authentication will be first things set up.
+
+2/6/18:
+Members:  Ann Monteith & Tyler Thrash
+Discussed:  Status and confirmation of Iteration 2 completions
+Decisions:  Sign-up, sign-on, and user home pages to be completed by Iteration 2 deadline. 
+
+2/13/18:
+Members:  Ann Monteith & Tyler Thrash
+Discussed:
+Decisions:  
+
+2/25/18:
+Members:  Ann Monteith & Tyler Thrash
+Discussed:
+Decisions:
