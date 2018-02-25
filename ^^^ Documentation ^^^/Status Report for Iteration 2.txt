@@ -1,0 +1,4 @@
+Status Report for Iteration 2:
+Currently, the launch page, enroll, and sign in pages are working fully.  When a user logs into their account that they created, they are taken to their home page where they can view their personal employee options.
+Between the last Iteration and this one, the Class diagram was updated to reflect the classes and database in our project.  
+We also have our test cases updated to match what has been completed within the application.  We also have the user manual updated to the point of what has been completed.
