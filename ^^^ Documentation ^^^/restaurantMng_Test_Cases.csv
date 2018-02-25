@@ -1,0 +1,35 @@
+﻿Test Case ID:,Test Case Summary:,Related Requirement:,Prerequisites:,Test Procedure:,Test Data:,Expected Result:,Actual Result:,Status (Pass/Fail):,Remarks:,Created by:,Creation Date:,Date of Execution:,Test Environment (Hardware/software/network) in which executed:
+1,Application launches via icon on desktop and displays options to sign up or sign in,None,None,Tap on the icon on the desktop,Tap icon on desktop,Application launches without error,,,,,,,Software
+2,Sign Up gives options to enter enrollment information and then enter the app,None,1,Tap Sign Up,"Ann Monteith
+ann_putnam@yahoo.com",User is able to enter their personal information for enrollment and receives a confirmation once enrollment is complete and redirect to user's home page,,,,,,,
+3,User signing in who has signed up will be allowed to sign in,2,2,"Tap Sign In
+Enter Username
+Enter Password",annmonteith,"If user is already signed up and correct information is entered, system should log the user on and bring up the user's home page",,,,,,,
+4,User signing in who has not signed up will be rejected,None,None,"Tap Sign In
+Enter Username
+Enter Password","MickeyMouse
+happy123",User's login attempt will fail and an error will be displayed and the user will be prompted to enter a valid username and password,,,,,,,
+5,,,,,,,,,,,,,
+6,,,,,,,,,,,,,
+7,,,,,,,,,,,,,
+8,,,,,,,,,,,,,
+9,,,,,,,,,,,,,
+10,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Test Case Summary,The summary / objective of the test case.,,,,,,,,,,,
+,Related Requirement,The ID of the requirement this test case relates/traces to.,,,,,,,,,,,
+,Prerequisites,Any prerequisites or preconditions that must be fulfilled prior to executing the test.,,,,,,,,,,,
+,Test Procedure,Step-by-step procedure to execute the test.,,,,,,,,,,,
+,Test Data,"The test data, or links to the test data, that are to be used while conducting the test.",,,,,,,,,,,
+,Expected Result,The expected result of the test.,,,,,,,,,,,
+,Actual Result,The actual result of the test; to be filled after executing the test.,,,,,,,,,,,
+,Status,Pass or Fail. Other statuses can be ‘Not Executed’ if testing is not performed and ‘Blocked’ if testing is blocked.,,,,,,,,,,,
+,Remarks,Any comments on the test case or test execution.,,,,,,,,,,,
+,Created By,The name of the author of the test case.,,,,,,,,,,,
+,Date of Creation,The date of creation of the test case.,,,,,,,,,,,
+,Executed By,The name of the person who executed the test.,,,,,,,,,,,
+,Date of Execution,The date of execution of the test.,,,,,,,,,,,
+,Test Environment,The environment (Hardware/Software/Network) in which the test was executed.,,,,,,,,,,,
