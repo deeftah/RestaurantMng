@@ -1,17 +1,23 @@
 User Manual:
-1. When the user opens the application on the computer or on their mobile device, they will see the option to log in.  Once logged in, the employee is able to select from several options
+To open/launch the Restaurant Manager app on a mobile device, tap on the app on the desktop
 
-2. When a standard employee logs into the system, they will have options for selecting a location, if they are working at a location other than their home location, or work with a customer’s order.  They also will have the option to make a reservation that includes the customer’s name and number of people in the party.
+For a current employee to enroll to use the app, launch the app then tap on Enroll.  Enter your employee information, as requested on the page.  Create a password for future logins.
+
+To log into the app in order to view your information, launch the app then tap on Log in.  On the login page, enter your username and your password.
 
 
-3. When a manager logs into the system, along with the employee options, they will have the option to add, update, and remove available menu options.  They can also view employees’ wage and pay information.
+-----
+2. When a standard employee logs into the system, they will have options for selecting a location, if they are working at a location other than their home location, or work with a customerâ€™s order.  They also will have the option to make a reservation that includes the customerâ€™s name and number of people in the party.
+
+
+3. When a manager logs into the system, along with the employee options, they will have the option to add, update, and remove available menu options.  They can also view employeesâ€™ wage and pay information.
 
 4. When a customer logs in, they will only be able to make a reservation to the restaurant including their name and the number of people in their party.
 
 
-5. An employee of the restaurant is able to start and update a customer’s bill.  Within the start and update options, the employee can add menu item(s) to the customer’s bill and modify the items, including any special requests made by the customer for an existing item on the bill.
+5. An employee of the restaurant is able to start and update a customerâ€™s bill.  Within the start and update options, the employee can add menu item(s) to the customerâ€™s bill and modify the items, including any special requests made by the customer for an existing item on the bill.
 
-6. When an employee closes out a customer’s bill, it will show the total amount that the customer owes.  The system will then allow the employee to enter in the payment method and the amount being paid.  If credit is chosen as the option then the system will recognize the type of card being swiped, contact the credit card company for approval, and print out a receipt with a signature line and the option to leave a tip.  If cash or check is selected as the payment option, the system will to provide the total amount to give back to the customer, if any.
+6. When an employee closes out a customerâ€™s bill, it will show the total amount that the customer owes.  The system will then allow the employee to enter in the payment method and the amount being paid.  If credit is chosen as the option then the system will recognize the type of card being swiped, contact the credit card company for approval, and print out a receipt with a signature line and the option to leave a tip.  If cash or check is selected as the payment option, the system will to provide the total amount to give back to the customer, if any.
 
 
-7. After payment is received, the system will allow the employee to enter in the amount paid and any tip that they received.  The system will keep track of the employee’s total tips for the day for wage purposes.  Managers of the system will be able to view the total amount of tips that have been received for each of their employees.
+7. After payment is received, the system will allow the employee to enter in the amount paid and any tip that they received.  The system will keep track of the employeeâ€™s total tips for the day for wage purposes.  Managers of the system will be able to view the total amount of tips that have been received for each of their employees.
