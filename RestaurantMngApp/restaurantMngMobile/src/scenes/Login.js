@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {View, TextInput, Text, ScrollView, Image,Button, Animated, TouchableOpacity, Keyboard, KeyboardAvoidingView,Platform } from 'react-native';
-import styles, { IMAGE_HEIGHT, IMAGE_HEIGHT_SMALL, NAVBUTTON_HEIGHT, NAVBUTTON_HEIGHT_SMALL} from '../styles/styles1';
+import styles, { IMAGE_HEIGHT, IMAGE_HEIGHT_SMALL, NAVBUTTON_HEIGHT, NAVBUTTON_HEIGHT_SMALL} from '../styles/styles';
 import logo from '../images/yin_yang.png';
 
 import RoundInput from '../components/generic/RoundInput';

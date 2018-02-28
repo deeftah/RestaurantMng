@@ -4,16 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start1": "babel-node src/index.js",
-    "start": "nodemon src/index.js --exec babel-node",
+    "start1": "babel-node src/app.js",
+    "start": "nodemon src/app.js --exec babel-node",
     "build": "babel src -d dist",
-    "serve": "node dist/index.js"
+    "serve": "node dist/app.js"
   },
   "author": "Tyler Thrash",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "morgan": "^1.9.0",
     "mysql": "^2.15.0"
   },
   "devDependencies": {

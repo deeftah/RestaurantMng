@@ -105,7 +105,7 @@ export default class Signup extends Component {
               onPress={this.onPress}
               onPress={() => this.props.navigation.navigate('Login')}
             >
-              <Text style={[styles.button1Txt, {paddingVertical: 10}]} >Log In</Text>
+              <Text style={[styles.button1Txt, {paddingVertical: 10}]} >Go To Log In</Text>
             </TouchableOpacity>
 
           </KeyboardAvoidingView>
