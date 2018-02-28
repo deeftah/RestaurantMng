@@ -1,11 +1,12 @@
 User Manual:
 To open/launch the Restaurant Manager app on a mobile device, tap on the app on the desktop
 
-For a current employee to enroll to use the app, launch the app then tap on Enroll.  Enter your employee information, as requested on the page.  Create a password for future logins.
+For a current employee to enroll to use the app, launch the app then tap on Sign up.  Enter your email, username, password, and re-key the password, as requested on the page.
 
 To log into the app in order to view your information, launch the app then tap on Log in.  On the login page, enter your username and your password.
 
 
+FUTURE DEVELOPMENT notes
 -----
 2. When a standard employee logs into the system, they will have options for selecting a location, if they are working at a location other than their home location, or work with a customer’s order.  They also will have the option to make a reservation that includes the customer’s name and number of people in the party.
 
